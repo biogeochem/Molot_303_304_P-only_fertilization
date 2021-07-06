@@ -4,6 +4,9 @@
 
 Two small, oligotrophic lakes at the IISD-Experimental Lakes Area in northwestern Ontario, Canada were fertilized weekly with only phosphorus (P) in the summer and early fall of 2019. The P fertilization rates were high enough (13.3 µg L-1 added weekly) to produce dense, month-long blooms of N2-fixing Dolichospermum species in both lakes within 9-12 weeks after fertilization began, turning them visibly green without the addition of nitrogen. P-only fertilization increased average seasonal chlorophyll a concentrations and cyanobacteria biomass well above the pre-fertilization levels of 2017 and 2018. Nitrogen (N) content in the epilimnion of thermally stratified Lake 304 and the water column of shallow Lake 303 doubled and P storage in the water column temporarily increased during the blooms. These whole-lake fertilization experiments demonstrate that large cyanobacteria blooms can develop rapidly under high P loading without anthropogenic N inputs, suggesting that aggressive N control programs are unlikely to prevent bloom formation and that P controls should remain the cornerstone for cyanobacteria management.
 
+## Cite As
+
+Molot, Lewis A.; Higgins, Scott N.; Schiff, Sherry; Venkiteswaran, Jason; Paterson, Michael J.; Baulch, Helen M., 2021, "Phosphorus-only fertilization rapidly initiates large nitrogen-fixing cyanobacteria blooms in two oligotrophic lakes", https://doi.org/10.5683/SP2/Q7FYSI
 
 ## Principle Investigators
 
